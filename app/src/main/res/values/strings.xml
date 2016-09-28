@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView with Custom adapter</string>
+    <string name="autocompletion_help" >Customer name start with</string>
+</resources>
